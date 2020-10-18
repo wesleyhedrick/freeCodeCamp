@@ -1,4 +1,4 @@
-#JavaScript Cheat Sheet
+# JavaScript Cheat Sheet
 
 - array.push() - adds item to end of array
 - array.unshift() - adds item to beginning of array
@@ -13,10 +13,10 @@
     - Like pop and shift, it returns a new array
     - splice() can also insert elements
 
-##Spread 
+## Spread 
 - makes a copy of an array without affecting the original array
     
-##Cool Spread Applications
+## Cool Spread Applications
 - copy array 
     - myArray = [1,2,3,4]
     - myNewArray = [...myArray]
@@ -43,7 +43,7 @@
         - dot notation .
             - myObject.pears = 25
             - This adds a new key 'pears' and gives it the value of 25
-#Really Cool super-duper note
+# Really Cool super-duper note
     **You can mix bracket and dot notation: obj[eyes].color**
     - **Delete Items**
         - delete myObject.pears
